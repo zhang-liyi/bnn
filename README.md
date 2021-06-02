@@ -1,5 +1,5 @@
-# bnn
-An implementation of Bayesian neural network using Variational Inference, Monte Carlo Dropout, and Hamiltonian Monte Carlo, with training on two toy datasets.
+# Bayesian neural networks
+An implementation of Bayesian neural networks using Variational Inference, Monte Carlo Dropout, and Hamiltonian Monte Carlo, with training on two toy datasets.
 
 To run, use:
 `python main.py --dataset=[D]`
